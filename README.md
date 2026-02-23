@@ -1,12 +1,28 @@
 # 📊 Automação de Relatórios Financeiros
 
-Projeto em Python para leitura, tratamento, análise e geração de relatórios em Excel.
+Projeto em Python que lê um arquivo Excel com registros de gastos, trata os dados, faz análises e gera um relatório em Excel com resumo por categoria.
 
-## Tecnologias
-- Python
-- Pandas
-- Openpyxl
+---
 
-## Como executar
-pip install -r requirements.txt
-python main.py
+## 🚀 Funcionalidades
+
+✔ Leitura de Excel com pandas  
+✔ Tratamento de datas e valores  
+✔ Cálculo de totais, médias e agrupamentos  
+✔ Geração de arquivo Excel com abas separadas
+
+---
+
+## 📦 Tecnologias
+
+- Python 3.12  
+- pandas  
+- openpyxl  
+
+---
+
+## ▶️ Como executar
+
+1. Clone o repositório:  
+```bash
+git clone https://github.com/araujo1901mx/automacao-relatorio-financeiro
