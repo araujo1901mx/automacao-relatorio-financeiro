@@ -26,3 +26,7 @@ Projeto em Python que lê um arquivo Excel com registros de gastos, trata os dad
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/araujo1901mx/automacao-relatorio-financeiro
+cd automacao-relatorio-financeiro
+pip install -r requirements.txt
+python src/main.py
+
