@@ -1,2 +1,5 @@
+# Gitignore
+venv/
 output/
 *.xlsx
+__pycache__/
